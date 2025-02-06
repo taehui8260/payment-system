@@ -63,7 +63,11 @@ payment-system/
 ```
 
 ---
+## 📊 ERD 다이어그램
+아래는 이 프로젝트의 ERD(Entity Relationship Diagram)입니다.
 
+![ERD](docs/erd.jpg)
+---
 ## 🧱 주요 기능
 
 ### 1. 결제 시스템 흐름
